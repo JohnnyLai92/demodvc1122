@@ -1,0 +1,5 @@
+outs:
+- md5: ca10598500dab5a1c1cf57f70444d103
+  size: 393
+  hash: md5
+  path: demodata.txt
